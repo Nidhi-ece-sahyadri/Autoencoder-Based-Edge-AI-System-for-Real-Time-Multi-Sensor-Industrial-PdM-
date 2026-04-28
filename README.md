@@ -49,6 +49,7 @@ A **compact predictive maintenance system** that:
 ---
 
 ## 🏗️ System Architecture
+<img width="3000" height="1688" alt="MODEL DEVEOPMENT STAGE (2)_page-0001" src="https://github.com/user-attachments/assets/cf08ca6f-dd81-4bd4-8378-bead49df4f5f" />
 
 ### 🔹 Model Development Stage
 - Data acquisition from sensors  
